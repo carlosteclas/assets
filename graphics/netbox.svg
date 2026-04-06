@@ -1,0 +1,16 @@
+<svg width="414" height="414" viewBox="0 0 414 414" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <title>NetBox</title>
+
+  <!-- Outer circle background -->
+  <circle cx="207" cy="207" r="206" fill="#1565c0"/>
+
+  <!-- Inner circle (slightly lighter) -->
+  <circle cx="207" cy="207" r="170" fill="#1976d2"/>
+
+  <!-- Stylised "N" letterform -->
+  <path d="M120 130 L120 284 L158 284 L158 196 L256 284 L294 284 L294 130 L256 130 L256 218 L158 130 Z"
+        fill="white"/>
+
+  <!-- Small accent square — represents the "Box" in NetBox -->
+  <rect x="258" y="248" width="34" height="34" rx="5" fill="#00c9ff"/>
+</svg>
